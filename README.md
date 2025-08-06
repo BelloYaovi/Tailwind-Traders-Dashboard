@@ -1,3 +1,21 @@
+Tailwind Traders Executive Dashboard – Capstone Project (Aug 2025)
+An end-to-end Power BI data analytics solution for Tailwind Traders, developed as part of a capstone project.
+
+Dataset:
+
+Source data included three Excel files: sales.xlsx, purchases.xlsx, and countries.xlsx.
+
+Additional instructions were followed to retrieve and integrate currency exchange rate data for financial standardization.
+
+Key Features:
+
+Data cleansing and modeling across multiple sources.
+
+Advanced reporting using DAX for aggregated sales and purchase insights.
+
+Executive dashboard with real-time alerts and report subscriptions to support decision-making.
+
+
 As part of a comprehensive Capstone project, I contributed to building a robust, end-to-end data analytics solution for Tailwind Traders. This project was delivered in three progressive phases, each building upon the last to transform raw data into actionable insights for business decision-makers.
 
 Phase 1: Data Preparation and Modeling
