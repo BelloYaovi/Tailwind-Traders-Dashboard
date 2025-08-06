@@ -26,3 +26,8 @@ In the second phase, I focused on enhancing analytical capabilities by configuri
 
 Phase 3: Executive Dashboarding and Intelligence Automation
 In the final stage, I developed a user-friendly executive dashboard to centralize insights and enable data-driven decisions. To further enhance the dashboard’s utility, I configured real-time alerts and report subscriptions, ensuring stakeholders remained informed of critical changes and trends automatically.
+
+
+[Download the executive dashboard](https://app.powerbi.com/groups/me/dashboards/ba3c5c3c-172c-4fc0-ac12-e1def8ed92cd?ctid=44467e6f-462c-4ea2-823f-7800de5434e3&experience=power-bi)
+
+[Download the report](https://app.powerbi.com/groups/me/reports/1063ff2f-04be-49de-9f49-342e0caead30?ctid=44467e6f-462c-4ea2-823f-7800de5434e3&experience=power-bi)
